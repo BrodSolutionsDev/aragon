@@ -28,7 +28,9 @@ function Index5() {
                   </div>
                   <div className="mt-40 box-mw-610">
                     <div className="form-newsletter-2">
-                      <form><input className="input-newsletter" value="" placeholder="Enter your email ..." /><button className="btn btn-newsletter icon-arrow-right-white" type="submit">Joint Pre-Order</button></form>
+                      <form><input className="input-newsletter"
+                      /*value=""*/
+                      placeholder="Enter your email ..." /><button className="btn btn-newsletter icon-arrow-right-white" type="submit">Joint Pre-Order</button></form>
                     </div>
                   </div>
                 </div>
